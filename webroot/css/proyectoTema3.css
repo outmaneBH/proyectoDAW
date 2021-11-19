@@ -1,0 +1,66 @@
+.w3-bar{
+    position: relative;
+    left: 0;
+    top: 0;
+}
+
+ul li{
+   height: 60px;
+  
+}
+h2{
+    text-align: center;
+}
+ul li:hover{
+    background-color: rgb(18, 195, 195);
+}
+/*TABLE*/
+#t1,td {
+    border: 1px solid rgba(221, 221, 221, 0.377);
+
+}
+
+#t1 {
+    border-collapse: collapse;
+    width: 80%;
+    margin-top: 10px;
+    height: 100px;
+    position: relative;
+    left: 90px;
+}
+
+
+#t1 td {
+    padding: 15px;   
+}
+#t1 td img{
+    width: 30px;
+    height: 30px;
+}
+#t1 tr td:first-child{
+    font-style: italic;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+/*footer*/
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(9, 184, 175);
+    color: white;
+    text-align: center;
+    height: 60px;
+    
+}
+footer p{
+    font-weight:bold;
+}
+#git{
+    position: fixed;
+    right: 0;
+    bottom: 8px;
+    
+}

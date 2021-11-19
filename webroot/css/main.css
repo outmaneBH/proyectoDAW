@@ -1,0 +1,116 @@
+.navbar{
+    background-color: black;
+    height: 80px;
+    width: 100%;
+}
+footer{
+    font-weight:bold;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(9, 184, 175);
+    color: white;
+    text-align: center;
+    height: 60px;
+    
+}
+h2{
+    text-align: center;
+}
+
+/*nuevo*/
+h3{
+    color: black;
+   
+}
+.w3-bar{
+    position: relative;
+    left: 0;
+    top: 0;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(9, 184, 175);
+    color: white;
+    text-align: center;
+    height: 60px;
+    
+}
+footer p{
+    font-weight:bold;
+}
+
+.space {
+    height: 200px;
+}
+#cliente{
+    width: 90%;
+    height: 250px;
+}
+#servidor{
+    width: 90%;
+    height: 250px;
+
+}
+#diseÃ±o{
+    width: 80%;
+    height: 300px;
+}
+#daw{
+    width: 550px;
+    height: 250px;  
+}
+#eie{
+    width: 550px;
+    height:300px;  
+}
+p{
+    text-align: center;
+}
+
+
+/*Cards*/
+
+#t2,td {
+    border: 1px solid rgba(221, 221, 221, 0.377);
+
+}
+
+#t2 {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 10px;
+    height: 200px;
+    
+}
+
+
+#t2 td {
+    padding: 15px; 
+    text-align: center;  
+}
+
+/*links*/
+a{
+    text-decoration: none;
+      
+}
+button{
+    position: relative;
+    left: 20%;
+}
+.presentacion{
+  position: relative;
+  left: 15%;
+}
+#git{
+    position: fixed;
+    right: 0;
+    bottom: 8px;
+    
+}
